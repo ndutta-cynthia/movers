@@ -1,0 +1,112 @@
+.FirstContainer{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto;
+  text-align: center;
+}
+
+.email{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.firstBody{
+  background-image: url(fam.webp);
+  background-repeat: no-repeat;
+  height: 400px;
+  color: blueviolet;
+  width: 100%;
+
+
+}
+
+.secondBody{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.year{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+
+.fivecolumns{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  justify-content: space-around;
+}
+.our-services{
+  text-align: center;
+}
+.what-we-do{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+.subscribe-button{
+  background-color: black;
+}
+.Body5{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.Body6{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.Body7{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.yellow-blue{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+
+.what-they-say{
+  text-align: center;
+}
+.testimonials{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+#news-letter{
+  text-align: center;
+}
+#email{
+  text-align: center;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+#centre-allign{
+  text-align: center;
+}
+#Discover-more{
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: orange;
+  width: 850px;
+}
+#footer {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: black;
+  color: white;
+  width: 850px;
+  
+}
+body{
+  margin-right: 25%;
+  margin-left: 25%;
+}
+.storage{
+  background-color: blue;
+  width: 150px;
+}
+.copy{
+display: grid;
+grid-template-columns: auto auto;
+}
+
+@media all and(max-width500px){
+
+}
